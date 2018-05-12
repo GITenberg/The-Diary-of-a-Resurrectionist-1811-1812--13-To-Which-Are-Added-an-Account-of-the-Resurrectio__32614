@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35942'
     url: http://www.gutenberg.org/2009/agents/35942
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32614#The-Diary-of-a-Resurrectionist-1811-1812--13-To-Which-Are-Added-an-Account-of-the-Resurrectio_
 gutenberg_issued: '2010-05-31'
 gutenberg_type: Text
 identifiers:
