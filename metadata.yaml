@@ -1,0 +1,26 @@
+_repo: The-Diary-of-a-Resurrectionist-1811-1812--13-To-Which-Are-Added-an-Account-of-the-Resurrectio__32614
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bailey, James Blake
+    gutenberg_agent_id: '35942'
+    url: http://www.gutenberg.org/2009/agents/35942
+description: ''
+gutenberg_issued: '2010-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Body snatching'
+- !lcc 'RA'
+title: "The Diary of a Resurrectionist, 1811-1812\r\nTo Which Are Added an Account\
+  \ of the Resurrection Men in London and a Short History of the Passing of the Anatomy\
+  \ Act"
+url: http://www.gutenberg.org/ebooks/32614
